@@ -1,27 +1,13 @@
-#Mettre le proxy
-git config --global https.proxy http://10.100.100.242:80
-git config --global http.proxy http://10.100.100.242:80
+Author : SI CHAIB Jabert
+Version : V1.3
 
-#Enlever le proxy
-git config --global unset http.proxy 
-git config --global unset https.proxy
-ù
-Consignes:
+----------------------------Open source----------------------------
+----------------------------Open source----------------------------
+----------------------------Open source----------------------------
+----------------------------Open source----------------------------
 
-- Le jeu doit être écrit uniquement en python.
-- 3D interdit.
-- Utiliser une interface d’animation du type pygame, pytk, pygtk… (IHM 2D)
-- Lorsqu’on programme avec une interface graphique, tout se déroule dans une seule boucle: la boucle d'événement.
-- Callback = fonction qui se met en place lors d’un événement.
-- La partie réseau est obligatoire : socket?
+Space invaders like code in python with pygame lib. 
 
---- ÉTAPE 1:
- Maquette : dessiner la maquette du jeu sur une feuille de papier (dimension, toutes les vues du programme)
+The game can as you want, use a python server for pushing the score. 
 
---- ÉTAPE 2:
-Tester son programme à chaque ligne de code
-Afficher fenêtre vide puis afficher vaisseau, pas a pas ..
-
---- ÉTAPE 3:
- Se fixer des objectifs et les tester(en interne et en externe).
-À valider dans Gît après.
+Enjoy. 
